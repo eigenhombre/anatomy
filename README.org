@@ -1,0 +1,14 @@
+
+* Turn notes on muscular anatomy (=.org= format) into Anki flashcards.
+
+** Workflow
+- =lein uberjar=
+- Edit =resources/muscle-structure.org=
+- Export Org file to CSV (=org-table-export=)
+- =java -jar target/uberjar/muscles.jar > cards.txt=
+- Import =cards.txt= into Anki
+- Memorize away!
+
+** Why?
+
+A figurative artist has to know his or her muscles, er, inside out.

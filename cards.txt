@@ -14,3 +14,11 @@ Insertion of Deltoid	Deltoid tuberosity halfway down humerus
 Muscle with insertion 'Deltoid tuberosity halfway down humerus'	Deltoid
 Deltoid overlaps...	Biceps brachii, tendon of pectoralis, infraspinatus, supraspinatus, teres major/minor, upper triceps
 Biceps brachii, tendon of pectoralis, infraspinatus, supraspinatus, teres major/minor, upper triceps are overlapped by...	Deltoid
+Function of Multifidus	extend, laterally flex, rotate vertebral column
+Muscle w/ function extend, laterally flex, rotate vertebral column	Multifidus
+Origin of Multifidus	Sacrum, PSIS, spinous processes of vertebrae
+Muscle with origin 'Sacrum, PSIS, spinous processes of vertebrae'	Multifidus
+Insertion of Multifidus	Spinous processes of all vertebrae but the atlas
+Muscle with insertion 'Spinous processes of all vertebrae but the atlas'	Multifidus
+Multifidus is overlapped by...	Gluteus maximus, Erector spinae, trapezius
+Gluteus maximus, Erector spinae, trapezius overlap...	Multifidus

@@ -5,7 +5,6 @@
   (:gen-class))
 
 
-
 (defn -main [& _]
   (let [[hdr & rows]
         (->> "muscle-structure.csv"

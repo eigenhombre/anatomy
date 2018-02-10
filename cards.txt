@@ -1,0 +1,16 @@
+Function of Sartorius	flexes, weakly abducts, rotates upper leg; flexes and medially rotates lower leg
+Muscle w/ function flexes, weakly abducts, rotates upper leg; flexes and medially rotates lower leg	Sartorius
+Origin of Sartorius	Just below tip of ASIS
+Muscle with origin 'Just below tip of ASIS'	Sartorius
+Insertion of Sartorius	Pes anserinus, on tibia
+Muscle with insertion 'Pes anserinus, on tibia'	Sartorius
+Sartorius overlaps...	Gracilis, Rectus Femoris, Vastus Medialis, Adductor Longus
+Gracilis, Rectus Femoris, Vastus Medialis, Adductor Longus are overlapped by...	Sartorius
+Function of Deltoid	flex arm forward, abducts outward, pulls backward
+Muscle w/ function flex arm forward, abducts outward, pulls backward	Deltoid
+Origin of Deltoid	lateral 1/3 of clavicle, acromion process, spine of scapula
+Muscle with origin 'lateral 1/3 of clavicle, acromion process, spine of scapula'	Deltoid
+Insertion of Deltoid	Deltoid tuberosity halfway down humerus
+Muscle with insertion 'Deltoid tuberosity halfway down humerus'	Deltoid
+Deltoid overlaps...	Biceps brachii, tendon of pectoralis, infraspinatus, supraspinatus, teres major/minor, upper triceps
+Biceps brachii, tendon of pectoralis, infraspinatus, supraspinatus, teres major/minor, upper triceps are overlapped by...	Deltoid

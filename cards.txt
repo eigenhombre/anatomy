@@ -22,3 +22,11 @@ Insertion of Multifidus	Spinous processes of all vertebrae but the atlas
 Muscle with insertion 'Spinous processes of all vertebrae but the atlas'	Multifidus
 Multifidus is overlapped by...	Gluteus maximus, Erector spinae, trapezius
 Gluteus maximus, Erector spinae, trapezius overlap...	Multifidus
+Function of Scalenus Medius	Bends neck laterally; lifts first rib during forced inspiration
+Muscle w/ function Bends neck laterally; lifts first rib during forced inspiration	Scalenus Medius
+Origin of Scalenus Medius	Transferse processes from C2-C7 (occasionally C1)
+Muscle with origin 'Transferse processes from C2-C7 (occasionally C1)'	Scalenus Medius
+Insertion of Scalenus Medius	Medial part of top of first rib
+Muscle with insertion 'Medial part of top of first rib'	Scalenus Medius
+Scalenus Medius is overlapped by...	Sternocleidomastoid, Omohyoid, Trapezius
+Sternocleidomastoid, Omohyoid, Trapezius overlap...	Scalenus Medius

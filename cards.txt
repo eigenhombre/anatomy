@@ -30,3 +30,13 @@ Insertion of Scalenus Medius	Medial part of top of first rib
 Muscle with insertion 'Medial part of top of first rib'	Scalenus Medius
 Scalenus Medius is overlapped by...	Sternocleidomastoid, Omohyoid, Trapezius
 Sternocleidomastoid, Omohyoid, Trapezius overlap...	Scalenus Medius
+Function of Vastus Medialis	Extend lower leg at knee; pull patella in and back to counter vastus lateralis
+Muscle w/ function Extend lower leg at knee; pull patella in and back to counter vastus lateralis	Vastus Medialis
+Origin of Vastus Medialis	Femur, starting at front of top, and wrapping around back along the linea aspera, then medially towards bottom. Also tendons of adductor longus and magnus and from the medial intermuscular speptum
+Muscle with origin 'Femur, starting at front of top, and wrapping around back along the linea aspera, then medially towards bottom. Also tendons of adductor longus and magnus and from the medial intermuscular speptum'	Vastus Medialis
+Insertion of Vastus Medialis	By quadriceps tendon into medial border of patella and by muscle fibers into patella upper inner corner. Also tibial tuberosity via patellar ligament
+Muscle with insertion 'By quadriceps tendon into medial border of patella and by muscle fibers into patella upper inner corner. Also tibial tuberosity via patellar ligament'	Vastus Medialis
+Vastus Medialis overlaps...	Slight overlap of vastus intermdius
+Slight overlap of vastus intermdius are overlapped by...	Vastus Medialis
+Vastus Medialis is overlapped by...	Sartorius; band of Richer
+Sartorius; band of Richer overlap...	Vastus Medialis

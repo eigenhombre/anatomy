@@ -59,7 +59,7 @@ should roughly keep up with my memorization practice, and I have the
 most important ones down solid in well under a year with minimal
 effort.)
 
-** Sample output
+** Sample program output
 
 #+BEGIN_SRC
 $ lein run
@@ -76,6 +76,10 @@ Muscle w/ function flex arm forward, abducts outward, pulls backward	Deltoid
 Origin of Deltoid	lateral 1/3 of clavicle, acromion process, spine of scapula
 ...
 #+END_SRC
+
+#+CAPTION: Sample review card
+#+NAME: anki.png
+[[file:./anki.png][file:./anki.png]]
 
 ** Workflow
 

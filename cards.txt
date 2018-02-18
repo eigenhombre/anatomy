@@ -24,8 +24,8 @@ Multifidus is overlapped by...	Gluteus maximus, Erector spinae, trapezius
 Gluteus maximus, Erector spinae, trapezius overlap...	Multifidus
 Function of Scalenus Medius	Bends neck laterally; lifts first rib during forced inspiration
 Muscle w/ function Bends neck laterally; lifts first rib during forced inspiration	Scalenus Medius
-Origin of Scalenus Medius	Transferse processes from C2-C7 (occasionally C1)
-Muscle with origin 'Transferse processes from C2-C7 (occasionally C1)'	Scalenus Medius
+Origin of Scalenus Medius	Transverse processes from C2-C7 (occasionally C1)
+Muscle with origin 'Transverse processes from C2-C7 (occasionally C1)'	Scalenus Medius
 Insertion of Scalenus Medius	Medial part of top of first rib
 Muscle with insertion 'Medial part of top of first rib'	Scalenus Medius
 Scalenus Medius is overlapped by...	Sternocleidomastoid, Omohyoid, Trapezius
@@ -40,3 +40,13 @@ Vastus Medialis overlaps...	Slight overlap of vastus intermdius
 Slight overlap of vastus intermdius are overlapped by...	Vastus Medialis
 Vastus Medialis is overlapped by...	Sartorius; band of Richer
 Sartorius; band of Richer overlap...	Vastus Medialis
+Function of Gracilis	Adduct thigh at hip, flex lower leg at knee, assist medial rotation of lower leg
+Muscle w/ function Adduct thigh at hip, flex lower leg at knee, assist medial rotation of lower leg	Gracilis
+Origin of Gracilis	Middle of pubic arch btwn pubic sympysis and ischial tuberosity
+Muscle with origin 'Middle of pubic arch btwn pubic sympysis and ischial tuberosity'	Gracilis
+Insertion of Gracilis	Tibia just below medial condyle, same as sartorius and semitendinosus (pes anserinus)
+Muscle with insertion 'Tibia just below medial condyle, same as sartorius and semitendinosus (pes anserinus)'	Gracilis
+Gracilis overlaps...	Adductor magnus, adductor magnus, adductor longus
+Adductor magnus, adductor magnus, adductor longus are overlapped by...	Gracilis
+Gracilis is overlapped by...	Sartorius
+Sartorius overlap...	Gracilis

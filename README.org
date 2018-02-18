@@ -2,15 +2,25 @@
 
 ... turn notes on muscular anatomy ([[https://orgmode.org][.org]] format) into [[https://apps.ankiweb.net/][Anki]] flashcards.
 
+#+NAME: anatomy.png
+#+ATTR_LATEX: :width 1\linewidth
+#+ATTR_HTML: :style max-height:600px;max-width:600px
+[[file:./anatomy.png][file:./anatomy.png]]
+
 ** Why?
 
 A figurative artist has to know his or her muscles, er, inside out.
 This is especially helpful when constructing the figure from
-imagination.  I have found the muscles harder to learn than the skeleton.
+imagination.  Various approaches have been taken to learning artistic
+anatomy.  While I'd rather not rob graveyards and [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361109/][do dissections]],
+there are, fortunately, excellent anatomy books[1] available for the
+artist.
 
-Various approaches have been taken to learning artistic anatomy.
-While I'd rather not rob graveyards and [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361109/][do dissections]], there are,
-fortunately, excellent anatomy books[1] available for the artist.
+I have found the muscles harder to learn than the skeleton, so
+developed the method outlined here.  Other methods include drawing
+muscles and bones on tracing paper over figure drawings or
+photographs, or sculpting muscles atop a pre-formed skeleton.  This
+practice supplements, but does not replace, those other methods.
 
 A few key facts can be helpful to learn, for each of the important
 muscles (< 100 of them, roughly):
@@ -42,9 +52,9 @@ repo to facilitate exporting the Org data to Anki.
 After cloning this repository and changing to its directory,
 
 1. Edit =resources/muscle-structure.org=
-2. Export Org file to CSV (=org-table-export=)
+2. Export Org file to CSV (=org-table-export=) in the same directory
 3. =lein run > cards.txt=
-4. Import =cards.txt= (remove any previously entered entries first) into Anki
+4. Import =cards.txt= (removing any previously-imported entries first) into Anki
 5. Memorize away!
 6. Repeat as new muscles are added.
 

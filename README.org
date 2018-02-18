@@ -77,9 +77,11 @@ Origin of Deltoid	lateral 1/3 of clavicle, acromion process, spine of scapula
 ...
 #+END_SRC
 
+... and a sample flash card:
+
 #+CAPTION: Sample review card
 #+NAME: anki.png
-#+ATTR_HTML: :style max-width:400px
+#+ATTR_HTML: :style max-width:50%
 [[file:./anki.png][file:./anki.png]]
 
 ** Workflow

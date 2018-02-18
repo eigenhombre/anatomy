@@ -61,9 +61,9 @@ create the cards helps me learn.
 The tiny [[https://clojure.org/][Clojure]] program in this repo facilitates exporting the Org
 data into Anki, which accepts tab-separated lines.  I run it whenever
 I add new muscles into my table.  (If I enter a few muscles a week, it
-should roughly keep up with my memorization practice, and I have the
-most important ones down solid in well under a year with minimal
-effort.)
+should roughly keep up with my memorization practice, and will then
+have the most important ones memorized in well under a year with
+minimal daily effort... perhaps five minutes per day.)
 
 ** Sample program output
 

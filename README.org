@@ -1,18 +1,68 @@
+* A Tool for Studying Muscles
 
-* Turn notes on muscular anatomy (=.org= format) into Anki flashcards.
-
-** Workflow
-- =lein uberjar=
-- Edit =resources/muscle-structure.org=
-- Export Org file[[https://orgmode.org/]] to CSV (=org-table-export=)
-- =java -jar target/uberjar/muscles.jar > cards.txt=
-- Import =cards.txt= into [[https://apps.ankiweb.net/][Anki]]
-- Memorize away!
+... turn notes on muscular anatomy ([[https://orgmode.org][.org]] format) into [[https://apps.ankiweb.net/][Anki]] flashcards.
 
 ** Why?
 
 A figurative artist has to know his or her muscles, er, inside out.
+This is especially helpful when constructing the figure from
+imagination.  I have found the muscles harder to learn than the skeleton.
+
+Various approaches have been taken to learning artistic anatomy.
+While I'd rather not rob graveyards and [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361109/][do dissections]], there are,
+fortunately, excellent anatomy books[1] available for the artist.
+
+A few key facts can be helpful to learn, for each of the important
+muscles (< 100 of them, roughly):
+- Muscle name
+- Origin of muscle (attachment point to the fixed part, generally on the skeleton)
+- Insertion of muscle (attachment point to the more mobile part)
+- Function: what the muscle does
+- What the muscle overlaps
+- What the muscle is overlapped by.
+
+These last two points can be helpful in constructing a mental
+model of the muscular forms and of the entire form they help to
+create.
+
+For all the muscles one wants to study, one can enter these key facts
+into a table, and then export the table into flashcards.  Merely
+entering the data in the first place starts the memorization, and then
+each table field can be paired with the muscle name both "forwards"
+and "backwards" (fact->muscle and muscle->fact) as separate
+flashcards.  Thus, for, say, 100 muscle names and the associated five
+facts per muscle, one has 100 x 5 x 2 = 1,000 flashcards.
+
+Since I find entering the data into an Org table preferable than
+typing it into Anki directly, I wrote the tiny [[https://clojure.org/][Clojure]] program in this
+repo to facilitate exporting the Org data to Anki.
+
+** Workflow
+
+After cloning this repository and changing to its directory,
+
+1. Edit =resources/muscle-structure.org=
+2. Export Org file to CSV (=org-table-export=)
+3. =lein run > cards.txt=
+4. Import =cards.txt= (remove any previously entered entries first) into Anki
+5. Memorize away!
+6. Repeat as new muscles are added.
+
+[1] See, for example, the Human Anatomy for Artists by Elliot Goldfinger.
 
 * License
 
-Not much here, but use it how you like.
+Data in the table have been lightly edited from [1] and other sources.
+
+This README and associated Clojure program copyright © 2018, John
+Jacobsen. MIT License.
+
+* Disclaimer
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

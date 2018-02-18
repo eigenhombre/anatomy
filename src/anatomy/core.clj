@@ -18,18 +18,19 @@
                      (for [r rows]
                        (->> r
                             (interleave hdr)
-                            (apply hash-map))))]
+                            (apply hash-map))))
+        pfmt (comp println format)]
     (doseq [{:keys [origin insertion overlaps name function overlapped-by]}
             muscle-maps]
-      (println (format "Function of %s\t%s" name function))
-      (println (format "Muscle w/ function %s\t%s" function name))
-      (println (format "Origin of %s\t%s" name origin))
-      (println (format "Muscle with origin '%s'\t%s" origin name))
-      (println (format "Insertion of %s\t%s" name insertion))
-      (println (format "Muscle with insertion '%s'\t%s" insertion name))
+      (pfmt "Function of %s\t%s" name function)
+      (pfmt "Muscle w/ function %s\t%s" function name)
+      (pfmt "Origin of %s\t%s" name origin)
+      (pfmt "Muscle with origin '%s'\t%s" origin name)
+      (pfmt "Insertion of %s\t%s" name insertion)
+      (pfmt "Muscle with insertion '%s'\t%s" insertion name)
       (when (not= overlaps "None")
-        (println (format "%s overlaps...\t%s" name overlaps))
-        (println (format "%s are overlapped by...\t%s" overlaps name)))
+        (pfmt "%s overlaps...\t%s" name overlaps)
+        (pfmt "%s are overlapped by...\t%s" overlaps name))
       (when (not= overlapped-by "None")
-        (println (format "%s is overlapped by...\t%s" name overlapped-by))
-        (println (format "%s overlap...\t%s" overlapped-by name))))))
+        (pfmt "%s is overlapped by...\t%s" name overlapped-by)
+        (pfmt "%s overlap...\t%s" overlapped-by name)))))

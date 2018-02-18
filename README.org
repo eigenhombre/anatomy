@@ -64,8 +64,8 @@ I add new muscles into my table.
 
 Since Anki synchronizes with my phone, I can review whenever I have a
 short break.  If I enter a few muscles a week, the data entry should
-roughly keep up with my memorization practice, and will then have the
-most important ones memorized in well under a year with minimal daily
+roughly keep up with my memorization practice, and will then have all
+the relevant muscles memorized in well under a year with minimal daily
 effort... perhaps five minutes per day.
 
 ** Sample program output

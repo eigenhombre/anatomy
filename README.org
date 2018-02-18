@@ -53,6 +53,11 @@ muscle, one has 100 x 5 x 2 = 1,000 flashcards.
 #+NAME: table-example.png
 [[file:./table-example.png][file:./table-example.png]]
 
+There are Anki decks for muscular anatomy already available, but they
+tend to be large in size and have a medical rather than artistic
+context; also, finding and summarizing the information required to
+create the cards helps me learn.
+
 The tiny [[https://clojure.org/][Clojure]] program in this repo facilitates exporting the Org
 data into Anki, which accepts tab-separated lines.  I run it whenever
 I add new muscles into my table.  (If I enter a few muscles a week, it

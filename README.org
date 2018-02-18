@@ -7,18 +7,20 @@
 
 ** Why?
 
-A figurative artist has to know his or her muscles, er, inside out.
-This is especially helpful when constructing the figure from
-imagination.  Various approaches have been taken to learning artistic
-anatomy.  While I'd rather not rob graveyards and [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361109/][do dissections]],
-there are, fortunately, excellent anatomy books[1] available for the
-artist.
+A knowledge of the human form is vital for figurative artists. A
+detailed understanding of anatomy is especially helpful when working
+from life or constructing the figure from imagination.
+
+Various approaches have been taken to learning artistic anatomy.
+While I'd rather not rob graveyards and [[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3361109/][do my own dissections]], there
+are, fortunately, excellent anatomy books[1] available for the artist.
 
 I have found the muscles harder to learn than the skeleton, so
-developed the method outlined here.  Other methods include drawing
-muscles and bones on tracing paper over figure drawings or
-photographs, or sculpting muscles atop a pre-formed skeleton.  This
-practice supplements, but does not replace, those other methods.
+developed the method outlined here, which involves reading, data
+entry, and memorization.  Other methods include drawing muscles on
+tracing paper over figure drawings or photographs, or sculpting
+muscles atop a pre-formed skeleton.  This practice supplements, but
+does not replace, those other methods.
 
 A few key facts can be helpful to learn, for each of the important
 muscles (< 100 of them, roughly):

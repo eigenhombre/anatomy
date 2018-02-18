@@ -4,7 +4,7 @@
 
 #+NAME: anatomy.png
 #+ATTR_LATEX: :width 1\linewidth
-#+ATTR_HTML: :style max-height:600px;max-width:600px
+#+ATTR_HTML: :style max-height:400px;max-width:400px
 [[file:./anatomy.png][file:./anatomy.png]]
 
 ** Why?

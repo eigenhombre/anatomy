@@ -1,4 +1,4 @@
-* A Tool for Studying Muscles
+* A Tool for Studying Muscular Anatomy
 
 ... turn notes on muscular anatomy (Emacs [[https://orgmode.org][.org]] format) into [[https://apps.ankiweb.net/][Anki]] flashcards.
 

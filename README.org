@@ -25,9 +25,8 @@ does not replace, those other methods.
 A few key facts can be helpful to learn, for each of the important
 muscles (< 100 of them, roughly):
 - Muscle name
-- Origin of muscle (attachment point to the fixed part, generally on
-  the skeleton)
-- Insertion of muscle (attachment point to the more mobile part)
+- Origin of muscle (attachment point, stationary during contraction)
+- Insertion of muscle (attachment point, moves during contraction)
 - Function: what the muscle does
 - What the muscle overlaps
 - What the muscle is overlapped by.

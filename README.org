@@ -53,10 +53,29 @@ muscle, one has 100 x 5 x 2 = 1,000 flashcards.
 [[file:./table-example.png][file:./table-example.png]]
 
 The tiny [[https://clojure.org/][Clojure]] program in this repo facilitates exporting the Org
-data into Anki.  I run it whenever I add new muscles into my table.
-(If I enter a few muscles a week, it should roughly keep up with my
-memorization practice, and I have the most important ones down solid
-in well under a year with minimal effort.)
+data into Anki, which accepts tab-separated lines.  I run it whenever
+I add new muscles into my table.  (If I enter a few muscles a week, it
+should roughly keep up with my memorization practice, and I have the
+most important ones down solid in well under a year with minimal
+effort.)
+
+** Sample output
+
+#+BEGIN_SRC
+$ lein run
+Function of Sartorius	flexes, weakly abducts, rotates upper leg; flexes and medially rotates lower leg
+Muscle w/ function flexes, weakly abducts, rotates upper leg; flexes and medially rotates lower leg	Sartorius
+Origin of Sartorius	Just below tip of ASIS
+Muscle with origin 'Just below tip of ASIS'	Sartorius
+Insertion of Sartorius	Pes anserinus, on tibia
+Muscle with insertion 'Pes anserinus, on tibia'	Sartorius
+Sartorius overlaps...	Gracilis, Rectus Femoris, Vastus Medialis, Adductor Longus
+Gracilis, Rectus Femoris, Vastus Medialis, Adductor Longus are overlapped by...	Sartorius
+Function of Deltoid	flex arm forward, abducts outward, pulls backward
+Muscle w/ function flex arm forward, abducts outward, pulls backward	Deltoid
+Origin of Deltoid	lateral 1/3 of clavicle, acromion process, spine of scapula
+...
+#+END_SRC
 
 ** Workflow
 

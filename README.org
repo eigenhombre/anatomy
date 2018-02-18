@@ -1,10 +1,8 @@
 * A Tool for Studying Muscles
 
-... turn notes on muscular anatomy ([[https://orgmode.org][.org]] format) into [[https://apps.ankiweb.net/][Anki]] flashcards.
+... turn notes on muscular anatomy (Emacs [[https://orgmode.org][.org]] format) into [[https://apps.ankiweb.net/][Anki]] flashcards.
 
-#+NAME: anatomy.png
-#+ATTR_LATEX: :width 1\linewidth
-#+ATTR_HTML: :style max-height:400px;max-width:400px
+#+ATTR_HTML: :align left
 [[file:./anatomy.png][file:./anatomy.png]]
 
 ** Why?
@@ -25,7 +23,8 @@ practice supplements, but does not replace, those other methods.
 A few key facts can be helpful to learn, for each of the important
 muscles (< 100 of them, roughly):
 - Muscle name
-- Origin of muscle (attachment point to the fixed part, generally on the skeleton)
+- Origin of muscle (attachment point to the fixed part, generally on
+  the skeleton)
 - Insertion of muscle (attachment point to the more mobile part)
 - Function: what the muscle does
 - What the muscle overlaps
@@ -35,17 +34,29 @@ These last two points can be helpful in constructing a mental
 model of the muscular forms and of the entire form they help to
 create.
 
-For all the muscles one wants to study, one can enter these key facts
-into a table, and then export the table into flashcards.  Merely
-entering the data in the first place starts the memorization, and then
-each table field can be paired with the muscle name both "forwards"
-and "backwards" (fact->muscle and muscle->fact) as separate
-flashcards.  Thus, for, say, 100 muscle names and the associated five
-facts per muscle, one has 100 x 5 x 2 = 1,000 flashcards.
+I use [[https://apps.ankiweb.net/][Anki]] as a tool for memorization.  Anki uses a carefully
+designed model to set the timing of when you see individual cards,
+showing you ones you got wrong sooner, and gradually showing them less
+and less often as you learn.
 
-Since I find entering the data into an Org table preferable than
-typing it into Anki directly, I wrote the tiny [[https://clojure.org/][Clojure]] program in this
-repo to facilitate exporting the Org data to Anki.
+For all the muscles you want to study, you can enter these key facts
+into a table, and then export the table into flashcards (I find this
+method preferable to typing it into Anki directly).  Merely entering
+the data in the first place starts the memorization, and then each
+table field can be paired with the muscle name both "forwards" and
+"backwards" (fact->muscle and muscle->fact) as separate flashcards.
+Thus, for, say, 100 muscle names and the associated five facts per
+muscle, one has 100 x 5 x 2 = 1,000 flashcards.
+
+#+CAPTION: Example table
+#+NAME: table-example.png
+[[file:./table-example.png][file:./table-example.png]]
+
+The tiny [[https://clojure.org/][Clojure]] program in this repo facilitates exporting the Org
+data into Anki.  I run it whenever I add new muscles into my table.
+(If I enter a few muscles a week, it should roughly keep up with my
+memorization practice, and I have the most important ones down solid
+in well under a year with minimal effort.)
 
 ** Workflow
 
@@ -53,16 +64,17 @@ After cloning this repository and changing to its directory,
 
 1. Edit =resources/muscle-structure.org=
 2. Export Org file to CSV (=org-table-export=) in the same directory
-3. =lein run > cards.txt=
+3. Run the program and save the output: =lein run > cards.txt=
 4. Import =cards.txt= (removing any previously-imported entries first) into Anki
 5. Memorize away!
 6. Repeat as new muscles are added.
 
-[1] See, for example, the Human Anatomy for Artists by Elliot Goldfinger.
+[1] See, for example, /Human Anatomy for Artists: The Elements of Form/ by Elliot Goldfinger.
 
 * License
 
-Data in the table have been lightly edited from [1] and other sources.
+Data in the table have been adapted, edited and simplified, from [1]
+and other sources. Any errors are probably my fault.
 
 This README and associated Clojure program copyright © 2018, John
 Jacobsen. MIT License.

@@ -60,10 +60,13 @@ create the cards helps me learn.
 
 The tiny [[https://clojure.org/][Clojure]] program in this repo facilitates exporting the Org
 data into Anki, which accepts tab-separated lines.  I run it whenever
-I add new muscles into my table.  (If I enter a few muscles a week, it
-should roughly keep up with my memorization practice, and will then
-have the most important ones memorized in well under a year with
-minimal daily effort... perhaps five minutes per day.)
+I add new muscles into my table.
+
+Since Anki synchronizes with my phone, I can review whenever I have a
+short break.  If I enter a few muscles a week, the data entry should
+roughly keep up with my memorization practice, and will then have the
+most important ones memorized in well under a year with minimal daily
+effort... perhaps five minutes per day.
 
 ** Sample program output
 
@@ -83,7 +86,8 @@ Origin of Deltoid	lateral 1/3 of clavicle, acromion process, spine of scapula
 ...
 #+END_SRC
 
-... and a sample flash card:
+... and a sample flash card (top portion only is shown initially, with the
+answer below shown after a tap or keypress):
 
 [[file:./anki.png][file:./anki.png]]
 

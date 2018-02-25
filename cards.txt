@@ -36,8 +36,8 @@ Origin of Vastus Medialis	Femur, starting at front of top, and wrapping around b
 Muscle with origin 'Femur, starting at front of top, and wrapping around back along the linea aspera, then medially towards bottom. Also tendons of adductor longus and magnus and from the medial intermuscular speptum'	Vastus Medialis
 Insertion of Vastus Medialis	By quadriceps tendon into medial border of patella and by muscle fibers into patella upper inner corner. Also tibial tuberosity via patellar ligament
 Muscle with insertion 'By quadriceps tendon into medial border of patella and by muscle fibers into patella upper inner corner. Also tibial tuberosity via patellar ligament'	Vastus Medialis
-Vastus Medialis overlaps...	Slight overlap of vastus intermdius
-Slight overlap of vastus intermdius are overlapped by...	Vastus Medialis
+Vastus Medialis overlaps...	Slight overlap of vastus intermedius
+Slight overlap of vastus intermedius are overlapped by...	Vastus Medialis
 Vastus Medialis is overlapped by...	Sartorius; band of Richer
 Sartorius; band of Richer overlap...	Vastus Medialis
 Function of Gracilis	Adduct thigh at hip, flex lower leg at knee, assist medial rotation of lower leg
@@ -50,3 +50,13 @@ Gracilis overlaps...	Adductor magnus, adductor magnus, adductor longus
 Adductor magnus, adductor magnus, adductor longus are overlapped by...	Gracilis
 Gracilis is overlapped by...	Sartorius
 Sartorius overlap...	Gracilis
+Function of Brachoradialis	Flex forearm at elbow
+Muscle w/ function Flex forearm at elbow	Brachoradialis
+Origin of Brachoradialis	Humerus: distal part, "lateral supracondylar ridge"
+Muscle with origin 'Humerus: distal part, "lateral supracondylar ridge"'	Brachoradialis
+Insertion of Brachoradialis	thumb side of radius, proximal to styloid process
+Muscle with insertion 'thumb side of radius, proximal to styloid process'	Brachoradialis
+Brachoradialis overlaps...	Brachialis, extensor carpi radialis longus, pronator teres, flexor digitorum superficialis
+Brachialis, extensor carpi radialis longus, pronator teres, flexor digitorum superficialis are overlapped by...	Brachoradialis
+Brachoradialis is overlapped by...	Lateral head of triceps
+Lateral head of triceps overlap...	Brachoradialis

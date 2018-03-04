@@ -36,8 +36,8 @@ Origin of Vastus Medialis	Femur, starting at front of top, and wrapping around b
 Muscle with origin 'Femur, starting at front of top, and wrapping around back along the linea aspera, then medially towards bottom. Also tendons of adductor longus and magnus and from the medial intermuscular speptum'	Vastus Medialis
 Insertion of Vastus Medialis	By quadriceps tendon into medial border of patella and by muscle fibers into patella upper inner corner. Also tibial tuberosity via patellar ligament
 Muscle with insertion 'By quadriceps tendon into medial border of patella and by muscle fibers into patella upper inner corner. Also tibial tuberosity via patellar ligament'	Vastus Medialis
-Vastus Medialis overlaps...	Slight overlap of vastus intermedius
-Slight overlap of vastus intermedius are overlapped by...	Vastus Medialis
+Vastus Medialis overlaps...	vastus intermedius (slighly)
+vastus intermedius (slighly) are overlapped by...	Vastus Medialis
 Vastus Medialis is overlapped by...	Sartorius; band of Richer
 Sartorius; band of Richer overlap...	Vastus Medialis
 Function of Gracilis	Adduct thigh at hip, flex lower leg at knee, assist medial rotation of lower leg
@@ -46,8 +46,8 @@ Origin of Gracilis	Middle of pubic arch btwn pubic sympysis and ischial tuberosi
 Muscle with origin 'Middle of pubic arch btwn pubic sympysis and ischial tuberosity'	Gracilis
 Insertion of Gracilis	Tibia just below medial condyle, same as sartorius and semitendinosus (pes anserinus)
 Muscle with insertion 'Tibia just below medial condyle, same as sartorius and semitendinosus (pes anserinus)'	Gracilis
-Gracilis overlaps...	Adductor magnus, adductor magnus, adductor longus
-Adductor magnus, adductor magnus, adductor longus are overlapped by...	Gracilis
+Gracilis overlaps...	Adductor magnus, adductor longus
+Adductor magnus, adductor longus are overlapped by...	Gracilis
 Gracilis is overlapped by...	Sartorius
 Sartorius overlap...	Gracilis
 Function of Brachoradialis	Flex forearm at elbow
@@ -60,3 +60,11 @@ Brachoradialis overlaps...	Brachialis, extensor carpi radialis longus, pronator 
 Brachialis, extensor carpi radialis longus, pronator teres, flexor digitorum superficialis are overlapped by...	Brachoradialis
 Brachoradialis is overlapped by...	Lateral head of triceps
 Lateral head of triceps overlap...	Brachoradialis
+Function of Biceps Femoris	flex lower leg, rotate tibia; long head: rotate leg laterally at hip
+Muscle w/ function flex lower leg, rotate tibia; long head: rotate leg laterally at hip	Biceps Femoris
+Origin of Biceps Femoris	Long head: ischial tuberosity; short head: middle third of back of femur
+Muscle with origin 'Long head: ischial tuberosity; short head: middle third of back of femur'	Biceps Femoris
+Insertion of Biceps Femoris	outer surface of head of fibula
+Muscle with insertion 'outer surface of head of fibula'	Biceps Femoris
+Biceps Femoris overlaps...	Adductor magnus (upper, inner portion)
+Adductor magnus (upper, inner portion) are overlapped by...	Biceps Femoris

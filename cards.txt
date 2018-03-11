@@ -68,3 +68,13 @@ Insertion of Biceps Femoris	outer surface of head of fibula
 Muscle with insertion 'outer surface of head of fibula'	Biceps Femoris
 Biceps Femoris overlaps...	Adductor magnus (upper, inner portion)
 Adductor magnus (upper, inner portion) are overlapped by...	Biceps Femoris
+Function of Rectus Femoris	Extend lower leg; flex thigh at hip
+Muscle w/ function Extend lower leg; flex thigh at hip	Rectus Femoris
+Origin of Rectus Femoris	Anterior inferior iliac spine (also acetabulum)
+Muscle with origin 'Anterior inferior iliac spine (also acetabulum)'	Rectus Femoris
+Insertion of Rectus Femoris	Top of patella (which is anchored by the patellar tendon at the tibial tuberosity)
+Muscle with insertion 'Top of patella (which is anchored by the patellar tendon at the tibial tuberosity)'	Rectus Femoris
+Rectus Femoris overlaps...	Vastus intermedius, vastus medialis, iliopsoas
+Vastus intermedius, vastus medialis, iliopsoas are overlapped by...	Rectus Femoris
+Rectus Femoris is overlapped by...	Sartorius
+Sartorius overlap...	Rectus Femoris

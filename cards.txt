@@ -78,3 +78,13 @@ Rectus Femoris overlaps...	Vastus intermedius, vastus medialis, iliopsoas
 Vastus intermedius, vastus medialis, iliopsoas are overlapped by...	Rectus Femoris
 Rectus Femoris is overlapped by...	Sartorius
 Sartorius overlap...	Rectus Femoris
+Function of Pectoralis Major	Adduct, medially rotate, raise and lower arm
+Muscle w/ function Adduct, medially rotate, raise and lower arm	Pectoralis Major
+Origin of Pectoralis Major	Ant. medial half of clavicle, entire lateral edge of sternum, cartilage of first 6-7 ribs, abdominal aponeurosis
+Muscle with origin 'Ant. medial half of clavicle, entire lateral edge of sternum, cartilage of first 6-7 ribs, abdominal aponeurosis'	Pectoralis Major
+Insertion of Pectoralis Major	Bicipital groove, front/top of humerus
+Muscle with insertion 'Bicipital groove, front/top of humerus'	Pectoralis Major
+Pectoralis Major overlaps...	Pectoralis minor, serratus anterior
+Pectoralis minor, serratus anterior are overlapped by...	Pectoralis Major
+Pectoralis Major is overlapped by...	Deltoid (overlaps tendon of)
+Deltoid (overlaps tendon of) overlap...	Pectoralis Major
